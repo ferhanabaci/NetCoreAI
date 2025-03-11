@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreAI.Project1_ApiDemo", "NetCoreAI.Project1_ApiDemo\NetCoreAI.Project1_ApiDemo.csproj", "{31201242-7BCE-499B-8A16-2B668E1F2486}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31201242-7BCE-499B-8A16-2B668E1F2486}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31201242-7BCE-499B-8A16-2B668E1F2486}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31201242-7BCE-499B-8A16-2B668E1F2486}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31201242-7BCE-499B-8A16-2B668E1F2486}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4F659DB-690C-42C7-9A3E-F5212B995E3D}
+	EndGlobalSection
+EndGlobal
